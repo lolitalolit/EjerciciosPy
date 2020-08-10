@@ -2,7 +2,7 @@
 # Si al menos hay 3 números mayores a 100, imprimir esos números, si no, imprimir los números menores a 50 que formen parte de 
 # la lista.
 
-lista = [10, 50, 75, 205, 176, 5, 23, 8, 99, 56]
+lista = [10, 50, 75, 205, 176, 5, 23, 8, 19, 56]
 
 print(max(lista))
 print(min(lista))
