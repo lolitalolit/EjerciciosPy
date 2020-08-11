@@ -9,4 +9,6 @@ for i in range(6):
     
 
 lista.sort()
-print(lista)
+
+for numero_ingresado in lista:
+    print(numero_ingresado)
